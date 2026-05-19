@@ -52,3 +52,22 @@ The `<head>` element is strictly engineered to increase visibility across locali
 ├── style.css           # Custom stylesheets, layout spacing, and frameless definitions
 ├── script.js           # Three.js initialization and scroll-reveal triggers
 └── README.md           # Technical documentation and deployment blueprint
+```
+## 🔧 Local Execution Setup
+To spin up a local instance of this development cluster:
+
+Clone the repository:
+
+```Bash
+git clone [https://github.com/stevenashrafkamal/Steven-Ashraf-Portfolio.git](https://github.com/stevenashrafkamal/Steven-Ashraf-Portfolio.git)
+```
+Navigate to the cluster root:
+
+```Bash
+cd Steven-Ashraf-Portfolio
+```
+Launch:
+Open index.html natively in any modern engine or execute via the VS Code Live Server plugin.
+
+## 📬 Connect With Me
+Let's build something scalable. Reach out through these high-speed transmission endpoints:
